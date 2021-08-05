@@ -1,9 +1,16 @@
-## Hi! I am Hafsah
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
-I am React Developer and Cyber Security Researcher
+## Hey, I'm Hafsah! 👋 
 
-![Coder Image](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
-Currently working on:
+I am a Front-End Developer specializing in building components and applications using React.js and Node.js.
+<br/>
+<br/>
+I am working on:
 
-##### I am actively looking for jobs related to React and Web Development. I am also passionate researcher of Cyber Security field. Here are some of my top GitHub repositories:
-[My Repositories](https://github.com/hafsa07?tab=repositories)
+<img src='https://img.shields.io/badge/-REACT%20-green' height='25'/> <img src='https://img.shields.io/badge/-JAVASCRIPT%20-red' height='25'/> <img src='https://img.shields.io/badge/-NODEJS%20-yellowgreen' height='25'/>
+
+Reach out to me at... <a href="www.linkedin.com/in/hafsa-muhammad-zaman-3b8806214">
+  <img align="left" alt="Hafsah's Linkdein" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
+</a>
+<br/>
+<br/>
