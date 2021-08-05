@@ -37,3 +37,8 @@ Reach out to me at...
 <a href="https://github.com/RegNex">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsa07&layout=compact&theme=dracula&count_private=true&langs_count=10" />
 </a>
+- 🌱 I’m currently learning React
+- 🔭 I’m Cyber Security Researcher and preparing for CCNA
+- 👯 I’m looking to collaborate on Web Developement Projects
+- 💬 Apart from tech you can Ask me about:
+-<ul><li> Movies </li> <li> Books </li> <li> Books </li> <li> General Discussions </li>
