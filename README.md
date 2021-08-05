@@ -41,4 +41,4 @@ Reach out to me at...
 - 🔭 I’m Cyber Security Researcher and preparing for CCNA
 - 👯 I’m looking to collaborate on Web Developement Projects
 - 💬 Apart from tech you can Ask me about:
--<ul><li> Movies </li> <li> Books </li> <li> Books </li> <li> General Discussions </li>
+-<ul><li> Movies </li> <li> Books </li> <li> Journaling </li> <li> General Discussions </li>
