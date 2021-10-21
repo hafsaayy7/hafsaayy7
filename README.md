@@ -2,7 +2,7 @@
 
 ## Hey, I'm Hafsah! 👋 
 
-I am a Front-End Developer specializing in building components and applications using React.js and Node.js.
+I am a MERN Stack Developer specializing in building components and applications using React.js and Node.js.
 <br/>
 <br/>
 I am working on:
