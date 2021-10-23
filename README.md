@@ -5,7 +5,7 @@
 I am a MERN Stack Developer specializing in building components and applications using React.js and Node.js.
 <br/>
 <br/>
-I am working on:
+I am currently working on:
 <br/>
 <br>
 <img src='https://img.shields.io/badge/-REACT%20-green' height='25'/> <img src='https://img.shields.io/badge/-JAVASCRIPT%20-red' height='25'/> <img src='https://img.shields.io/badge/-NODEJS%20-yellowgreen' height='25'/> <img src='https://img.shields.io/badge/-MONGODB%20-yellow' height='25'/>
