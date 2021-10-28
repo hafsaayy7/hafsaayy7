@@ -31,6 +31,7 @@ Reach out to me at...
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
+
 <br/>
 <a href="https://github.com/RegNex">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsa07&layout=compact&theme=dracula&count_private=true&langs_count=10" />
